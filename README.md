@@ -12,6 +12,7 @@ Levels of user are as follows:
 7. Governor
 
 Side Levels:
+
 1.1 Parent with limited capacity towards a child
 2.1 Teaching Assistant
 4.1 Head of Year, Assistant Head of Year
